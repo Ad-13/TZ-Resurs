@@ -1,0 +1,80 @@
+.adress {
+	font-size: 149%;
+	margin-right: 4%;
+}
+
+.nav-line .nav_item {
+	padding-left: 3.25%;
+}
+
+.nav-line .nav_item:before {
+	top: 43%;
+	left: 10%;
+}
+
+.nav-line .nav_item a {
+	font-size: 156%;
+}
+
+.article_content h1 {
+	font-size: 2.4em;
+}
+
+.slider-content.article_content h1 {
+	font-size: 2.3em;
+}
+
+.query_form .transparent {
+	background: #fff;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	opacity: .3;
+	filter:alpha(opacity=50);
+	z-index: -1;
+}
+
+.query_form * {
+	z-index: 5;
+}
+
+.query_form h1 {
+	font-size: 202%;
+	margin: 0px 0px 0px 7.7%;
+}
+
+.query_form p {
+	font-size: 130%;
+	margin-left: 7%;
+}
+
+.query_form_inpts {
+	padding-left: 5.9%;
+}
+
+.query_form_inpts input {
+	width: 179px;
+}
+
+.tabs_block_name a {
+	font-size: 165%;
+}
+
+.footer .ft_feedback_tel {
+	font-size: 137%;
+}
+
+.footer .ft_feedback_callback {
+	font-size: 127%;
+}
+
+.footer .ft-adress {
+	font-size: 126%;
+	margin-right: 3%;
+}
+
+.footer .servise-list li a {
+	font-size: 129%;
+}
